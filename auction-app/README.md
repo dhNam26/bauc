@@ -34,7 +34,7 @@ src/main/java/com/auction
 └── Main.java
 ```
 
-## Gợi ý để nâng cấp bài nộp
+## Gợi ý update
 - Thay repository in-memory bằng MySQL/PostgreSQL
 - Thêm JavaFX/Swing GUI
 - Thêm authentication/login
